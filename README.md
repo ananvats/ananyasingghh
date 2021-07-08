@@ -1,4 +1,4 @@
-
+<img src="https://github.com/ananyasingghh/ananyasingghh/blob/main/header_image.png">
 
 ## Hello! it's Ananya Singh :) 
 #### *Final year B.Tech IT student*
